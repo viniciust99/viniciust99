@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<font size="6"><b>ABOUT ME</b></font>
+
+
 - 📊 I'm Vinícius Tarrão from Salvador, Bahia, Brazil, a 25-year-old B.Sc. student majoring in Business Administration at the Federal University of Bahia (UFBA). Currently, I'm transitioning into Data Science, with hands-on experience as a Data Analyst Intern in a partnership project between Nubank and UFBA.
 
 - My passion lies in Machine Learning, time series analysis, generative AI, statistics and data analysis. I’m constantly improving my skills and solving real-world problems to extract valuable insights.
