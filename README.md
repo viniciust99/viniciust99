@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - My passion lies in Machine Learning, time series analysis, generative AI, statistics and data analysis. I’m constantly improving my skills and solving real-world problems to extract valuable insights.
 
-- 📚 My technical skills include Python (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, virtual environments, Flask), SQL, Machine Learning, Generative AI(prompt engineering), Git and Github and Statistics.
+- 📚 My technical skills include Python (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, virtual environments, Django), SQL, Machine Learning, Generative AI(prompt engineering), Git and Github and Statistics.
 
 - I’m committed to self-directed learning and always eager to improve my abilities. I excel at communication, conveying ideas clearly and collaborating effectively in teams. I adapt quickly to new challenges and stay results-oriented, focusing on delivering value 
 
