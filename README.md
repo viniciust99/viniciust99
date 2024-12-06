@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 - 📚 My technical skills include Python (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, virtual environments, Flask), SQL, Machine Learning, Generative AI(prompt engineering), Git and Github and Statistics.
 
 - I’m committed to self-directed learning and always eager to improve my abilities. I excel at communication, conveying ideas clearly and collaborating effectively in teams. I adapt quickly to new challenges and stay results-oriented, focusing on delivering value 
+
+<img src="viniciustarrao.png">
