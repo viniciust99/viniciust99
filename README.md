@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 - I’m committed to self-directed learning and always eager to improve my abilities. I excel at communication, conveying ideas clearly and collaborating effectively in teams. I adapt quickly to new challenges and stay results-oriented, focusing on delivering value 
 
-<img src="viniciustarrao.png">
+<img src="https://github.com/viniciust99/data-science-projects/blob/master/viniciustarrao.png">
